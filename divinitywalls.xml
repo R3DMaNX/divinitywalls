@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <substratum>
 
-<wallpaper id="Soft Violet">
+<wallpaper id="Pixel and Soft Violet">
         <link>https://lh3.googleusercontent.com/fKVZU5EdjLnhDnaeF4WkoTVLAkgUAtF8i9ZJ9wMLU-JfY30kalOk_zbyni6ULGP-yT_v5X1gLWmVWTrPQ6vYwjK0rhUyRMj7EhE=w1360-h768-rw-no</link>
         <preview>https://lh3.googleusercontent.com/fKVZU5EdjLnhDnaeF4WkoTVLAkgUAtF8i9ZJ9wMLU-JfY30kalOk_zbyni6ULGP-yT_v5X1gLWmVWTrPQ6vYwjK0rhUyRMj7EhE=w1360-h768-rw-no</preview>
     </wallpaper>
@@ -34,5 +34,10 @@
 	<wallpaper id="NightLife">
         <link>https://lh3.googleusercontent.com/-hhpL3el-7kg/WKuAoI7SfiI/AAAAAAABRmY/LPNrIzGP57Y036Sc88mB2-VjzA1CuhkJQCJoC/w530-h942-p-rw-no</link>
         <preview>https://lh3.googleusercontent.com/-hhpL3el-7kg/WKuAoI7SfiI/AAAAAAABRmY/LPNrIzGP57Y036Sc88mB2-VjzA1CuhkJQCJoC/w530-h942-p-rw-no</preview>
+    </wallpaper>
+	
+	<wallpaper id="Midnight and Dark Deep Red">
+        <link>https://lh3.googleusercontent.com/-iD6byGF2-sY/WK4Dy2UlzZI/AAAAAAABR9w/duTRYj3yxKsbZSXEoPTm-MkbqeUDDZc2wCL0B/w530-d-h942-p-rw-no</link>
+        <preview>https://lh3.googleusercontent.com/-iD6byGF2-sY/WK4Dy2UlzZI/AAAAAAABR9w/duTRYj3yxKsbZSXEoPTm-MkbqeUDDZc2wCL0B/w530-d-h942-p-rw-no</preview>
     </wallpaper>
 </substratum>
